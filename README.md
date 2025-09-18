@@ -1,1 +1,1 @@
-I have made this calculator using HTML, CSS, and JS. It's from my initial web development projects when I was learning front-end development.
+I created this calculator using HTML, CSS, and JavaScript. It was from my initial web development projects when I was learning front-end development. It's so cool to see you, how you started from the basics, and now you are going to the next level.
